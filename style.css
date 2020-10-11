@@ -6,7 +6,7 @@ svg {
 svg text {
 	line-height: 100%;
 	white-space: pre;
-	font-family: monospace;
+	font-family: Monaco;
 	font-size: 8px;
 	fill: #666;
 	user-select:none;
