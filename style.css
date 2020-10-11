@@ -6,7 +6,7 @@ svg {
 svg text {
 	line-height: 100%;
 	white-space: pre;
-	font-family: "Lucida Console";
+	font-family: monospace;
 	font-size: 8px;
 	fill: #000;
 	user-select:none;
